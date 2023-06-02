@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### My name is Andre van de Ven
-### Major: Neuroscience
-### Year: Freshman
+### Major: Computational Biology
+### Year: Sophomore 
 ### Hobbies: Scuba diving, underwater photography, reading, playing video games
 <!--
 **andrevandeven/andrevandeven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
