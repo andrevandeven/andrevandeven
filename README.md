@@ -2,7 +2,7 @@
 ### My name is Andre van de Ven
 ### Major: Computational Biology
 ### Year: Sophomore 
-### Hobbies: Scuba diving, underwater photography, reading, playing video games
+### Hobbies: Scuba diving, underwater photography, reading
 <!--
 **andrevandeven/andrevandeven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
