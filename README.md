@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### My name is Andre van de Ven
-### Major: Computational Biology
+### Majors: Bio + CS
 ### Year: Sophomore 
 ### Hobbies: Scuba diving, underwater photography, reading
 <!--
