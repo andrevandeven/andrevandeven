@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### My name is Andre van de Ven
 ### Majors: Bio + CS
+### School: University of Pennsylvania
 ### Year: Sophomore 
 ### Hobbies: Scuba diving, underwater photography, reading
 <!--
