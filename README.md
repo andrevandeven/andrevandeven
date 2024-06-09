@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### My name is Andre van de Ven
-### Majors: Computational Biology + Stats
+### Majors: Computational Biology + Statistics
 ### School: University of Pennsylvania
 ### Hobbies: Scuba diving, underwater photography, reading
 <!--
